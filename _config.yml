@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Algoholic"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Born to <code>."
+  bio              : "Born to code."
   location         : "Somewhere in the East Asia"
   email            :
   links:

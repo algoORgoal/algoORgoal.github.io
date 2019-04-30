@@ -1,3 +1,8 @@
+---
+title: "TIL- April 25 - 30"
+date: 2019-04-30 08:26:28 -0400
+categories: jekyll update
+---
 4/25
 reverse(): takes no argument. doesn’t return any value.
 reversed(): takes as input sequence. return  reversed argument.
